@@ -1,5 +1,8 @@
 ## Hi there 👋
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rintaro196&theme=dracula)
 
+![](https://github-readme-stats.vercel.app/api/top-langs?username=Rintaro196&theme=dracula&layout=compact)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rintaro196&theme=dracula)
 <!--
 **Rintaro196/Rintaro196** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
