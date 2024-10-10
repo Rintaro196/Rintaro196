@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm studying.
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rintaro196&theme=dracula)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=Rintaro196&theme=dracula&layout=compact)
