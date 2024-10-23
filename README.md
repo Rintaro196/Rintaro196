@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm studying. Started at 2024/3/23.</br>
+I'm studying programming. Started at 2024/3/23.</br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rintaro196&theme=dracula)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=Rintaro196&theme=dracula&layout=compact)
