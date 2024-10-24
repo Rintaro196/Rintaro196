@@ -4,6 +4,12 @@ I'm learning programming. Started at 2024/3/23.</br>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=Rintaro196&theme=dracula&layout=compact)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rintaro196&theme=dracula)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
+</picture>
 <!--
 **Rintaro196/Rintaro196** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
