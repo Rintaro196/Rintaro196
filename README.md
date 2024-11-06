@@ -8,8 +8,10 @@ Started at 2024/3/23.</br>
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
 </picture>
 
+## Github Profile Trophies 🏆
 [![trophy](https://github-profile-trophy.vercel.app/?username=Rintaro196&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+## Github Status
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rintaro196&theme=dracula)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=Rintaro196&theme=dracula&layout=compact)
